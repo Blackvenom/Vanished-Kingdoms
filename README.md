@@ -1,7 +1,9 @@
 # Vanished-Kingdoms
-Issue Tracker for Vanished Kingdoms
+# Bergfried:
+- Eingang Westseite
+- Vorbau an Nordseite
 
-Palas (Wohnhaus):
+# Palas (Wohnhaus):
 - Dreistöckig
 - 20m hoch
 - kamin in Südwand
@@ -13,12 +15,12 @@ Palas (Wohnhaus):
 - 4. Stock: Wehrgang mit Schießscharten
 - Kapelle zwischen Palas und Bergfried
 
-Quellen:
+# Quellen:
 - Burgenführer Schwäbische Alb Band 4 - Alb Mitte-Nord (Günter Schmitt)
 - Die Thietpoldispurch und die Burgen der Kirchheimer Alb (Christoph Bizer/Rolf Götz)
 - Schwäbische Albvereinsblätter
 - https://www.reussenstein.de/
 
-Fakten:
+# Fakten:
 - Erbaut Mitte 13. Jahrhundert
 - Umgebaut im 15. Jahrhundert durch Helfensteiner: Zwinger und Untere Burg
