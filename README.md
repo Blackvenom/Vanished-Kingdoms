@@ -18,7 +18,8 @@
 # Quellen:
 - Burgenführer Schwäbische Alb Band 4 - Alb Mitte-Nord (Günter Schmitt)
 - Die Thietpoldispurch und die Burgen der Kirchheimer Alb (Christoph Bizer/Rolf Götz)
-- Schwäbische Albvereinsblätter
+- Schwäbische Albvereinsblätter 1900 von Otto Pieper
+- Schwäbische Albvereinsblätter 1916 von Konrad Albert Koch
 - https://www.reussenstein.de/
 
 # Fakten:
