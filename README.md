@@ -6,6 +6,12 @@ Palas (Wohnhaus):
 - 20m hoch
 - kamin in Südwand
 - rundbogenfenster in Westwand
+- Untergeschoss Küche und Vorratsraum, Öffnung für Küchenabfälle
+- 1. Stock: Schlaf- und Arbeitsräume Personal
+- 2. Stock: Schlaf-, Wohn- und Wirtschaftsräume für Burgherrschaft
+- 3. Stock: Großer Saal, Südwand Aborterker
+- 4. Stock: Wehrgang mit Schießscharten
+- Kapelle zwischen Palas und Bergfried
 
 Quellen:
 - Burgenführer Schwäbische Alb Band 4 - Alb Mitte-Nord (Günter Schmitt)
