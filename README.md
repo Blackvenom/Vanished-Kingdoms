@@ -2,7 +2,9 @@
 # Bergfried
 - Eingang Westseite
 - Vorbau an Nordseite
-
+# Bergfried Anbau
+- zweistöckig
+- Satteldach
 # Palas (Wohnhaus)
 - Dreistöckig
 - 20m hoch
