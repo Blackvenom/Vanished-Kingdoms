@@ -23,7 +23,7 @@
 - Die Thietpoldispurch und die Burgen der Kirchheimer Alb (Christoph Bizer/Rolf Götz)
 - Schwäbische Albvereinsblätter 1900 von Otto Pieper
 - Schwäbische Albvereinsblätter 1916 von Konrad Albert Koch
-- https://www.reussenstein.de/
+- https://www.reussenstein.de/, Paul Stierle
 
 # Fakten
 - Erbaut Mitte 13. Jahrhundert
