@@ -11,7 +11,7 @@
 - kamin in Südwand
 - rundbogenfenster in Westwand
 - Untergeschoss Küche und Vorratsraum, Öffnung für Küchenabfälle
-- 1. Stock: Schlaf- und Arbeitsräume Personal
+- 1. Stock: Schlaf- und Arbeitsräume Personal, zugemauerter Abtritt (Aborterker?)
 - 2. Stock: Schlaf-, Wohn- und Wirtschaftsräume für Burgherrschaft
 - 3. Stock: Großer Saal, Südwand Aborterker
 - 4. Stock: Wehrgang mit Schießscharten
