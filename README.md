@@ -16,6 +16,7 @@
 - 3. Stock: Großer Saal, Südwand Aborterker
 - 4. Stock: Wehrgang mit Schießscharten
 - Kapelle zwischen Palas und Bergfried
+- Eine vermauerte Öffnung im Untergeschoss und eine schräg darüberliegende im dritten Geschoss führte jeweils zu einem Abtritt
 
 # Quellen
 - Burgenführer Schwäbische Alb Band 4 - Alb Mitte-Nord (Günter Schmitt)
