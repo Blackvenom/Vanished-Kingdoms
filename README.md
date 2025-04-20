@@ -19,12 +19,21 @@
 - Eine vermauerte Öffnung im Untergeschoss und eine schräg darüberliegende im dritten Geschoss führte jeweils zu einem Abtritt
 
 # Quellen
-- Burgenführer Schwäbische Alb Band 4 - Alb Mitte-Nord (Günter Schmitt)
-- Die Thietpoldispurch und die Burgen der Kirchheimer Alb (Christoph Bizer/Rolf Götz)
-- Schwäbische Albvereinsblätter 1900 von Otto Pieper
-- Schwäbische Albvereinsblätter 1916 von Konrad Albert Koch
-- https://www.reussenstein.de/, Paul Stierle
+- Papiermodell: Kreisarchivleiter Manfred Waßner, 2024
+- Buch: Burgenführer Schwäbische Alb Band 4 Alb Mitte-Nord, Günter Schmitt, 1991
+- Buch: Die Thietpoldispurch und die Burgen der Kirchheimer Alb, Christoph Bizer/Rolf Götz, 2004
+- Buch: Burgruinen im Landkreis Nürtingen, Hans-Martin Maurer, 1967
+- Buch: Die Neckarseite der schwäbischen Alb (Neudruck 1960), Gustav Schwab, 1823
+- Buch: Beiträge zur Heimatkunde des Bezirks Kirchheim unter Teck, Veröffentlichungen des Teckboten, 1965
+- Blätter des schwäbischen Albvereins, 1892
+- Blätter des schwäbischen Albvereins, Otto Pieper, 1900
+- Blätter des schwäbischen Albvereins, Konrad Albert Koch, 1916
+- Blätter des schwäbischen Albvereins, Forstmeister Wurm, 1927
+- Blätter des schwäbischen Albvereins, Elfriede Rößler, 1994
+- https://www.reussenstein.de/ und Ringbuch, Paul Stierle, 1966
+- Beitrag: Zur Instandsetzung der Ruine Reußenstein, Karsten Preßler, 2014
 
 # Fakten
 - Erbaut Mitte 13. Jahrhundert
 - Umgebaut im 15. Jahrhundert durch Helfensteiner: Zwinger und Untere Burg
+- Unbewohnt und Verfall seit Mitte 16. Jahrhundert
