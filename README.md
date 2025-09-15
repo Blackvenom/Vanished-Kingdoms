@@ -37,3 +37,23 @@
 - Erbaut Mitte 13. Jahrhundert
 - Umgebaut im 15. Jahrhundert durch Helfensteiner: Zwinger und Untere Burg
 - Unbewohnt und Verfall seit Mitte 16. Jahrhundert
+
+
+# Vorhandene Gebäude
+- Brunnen (untere Burg)
+- Wirtschaftsgebäude (untere Burg)
+- Runder Wachturm (untere Burg)
+- Echkiger Wachturm (untere Burg)
+- Nordmauer inkl. Wehrgang (untere Burg)
+- Eingangstor (untere Burg)
+- Wehrgang
+- Zwingergebäude
+- Lagerhaus (obere Burg)
+- Palas inkl. Küche (obere Burg)
+- Bergfried (obere Burg)
+- Bergfried Anbau (obere Burg)
+
+# Fehlende Gebäude
+- Brunnen (obere Burg)
+- Schmied
+- Stallungen?
