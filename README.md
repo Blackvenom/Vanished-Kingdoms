@@ -50,10 +50,11 @@
 - Zwingergebäude
 - Lagerhaus (obere Burg)
 - Palas inkl. Küche (obere Burg)
+- Burgkapelle
 - Bergfried (obere Burg)
 - Bergfried Anbau (obere Burg)
 
 # Fehlende Gebäude
 - Brunnen (obere Burg)
 - Schmied
-- Stallungen?
+- Stallungen im Zwinger
