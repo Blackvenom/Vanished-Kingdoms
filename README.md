@@ -57,4 +57,4 @@
 # Fehlende Gebäude
 - Brunnen (obere Burg)
 - Schmied
-- Stallungen im Zwinger
+- Stallungen im Zwinger inkl. Heustapel
